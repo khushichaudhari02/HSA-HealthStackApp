@@ -1,0 +1,1 @@
+<template><h1>Create Hospital admin yet to be added!</h1></template>

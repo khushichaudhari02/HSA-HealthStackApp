@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&family=Inter:wght@100..900&family=Open+Sans:wght@300..800&display=swap');
+html{
+    --primary-color:#0C66AB;
+    --secondary-color:#0C9AAC;
+    --primary-color-light :#8fc8f3;
+    --secondary-color-light:#10B4C9;
+    --brand-gradient-color:linear-gradient(to right,#0C66AB,#0C9AAC);
+    --black: rgb(17, 26, 28);
+    --black-75:rgba(17, 26, 28, 0.75);
+    --black-50:rgba(17, 26, 28, 0.50);
+    --black-25:rgba(17, 26, 28, 0.25);
+    --black-10:rgba(17, 26, 28, 0.10);
+    --black-5:rgba(17, 26, 28, 0.05);
+    --error:#E63329;
+    --emergency:#FF0000;
+    --h1-laptop:5.5rem; /*5.5rem*/
+    --h2-laptop:4rem; /* 4rem*/
+    --h3-laptop:3rem;/* 3rem*/
+    --h4-laptop:2rem;/*2rem */
+    --h5-laptop:1.5rem;/* 1.5rem*/
+    --h6-laptop:1rem;/* 1rem*/
+    line-height: 145%;
+    font-family:'Open Sans';
+}
+
+h1,h2,h3,h4,h5,h6{
+   font-weight:bold;
+}
+
+
+
+
+*{
+   
+    box-sizing: border-box;
+}
